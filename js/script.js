@@ -83,7 +83,7 @@ function calcGoods() {
     }
     badge.textContent = items.length;
 }
-
+ 
 function returnEmptyMassage(){
     cartWrapper.innerHTML = '<div class="empty">Ваша корзина пока пуста</div>';
 }
